@@ -30,7 +30,7 @@ Results:
 
 Analysis: Model is not overfitting, model can be improved further to get 99.4% or more using image augmentation techniques.
 
-## Model 3:
+## Model 3 (Final):
 
 Targets:
 
